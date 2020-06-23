@@ -1,0 +1,6 @@
+.idea/**
+.DS_Store
+*.pem
+notes.txt
+.terraform/**
+terraform.tfstate*
